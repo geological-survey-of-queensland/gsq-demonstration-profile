@@ -1,5 +1,5 @@
 # GSQ Survey Profile
-This is a generic model of a *survey* - a temporal observation event. Within this model are more detailed models of special kinds of `Surveys`, such as `Seismic Surveys`, for the aquisition of seismic data. Figure 1 below shows the basic properties of the generic `Survey` class.  Some more text. and some more. Cats are animals. 
+This is a generic model of a *survey* - a temporal observation event. Within this model are more detailed models of special kinds of `Surveys`, such as `Seismic Surveys`, for the aquisition of seismic data. Figure 1 below shows the basic properties of the generic `Survey` class.  
 
 test
 #TO TEST TEAM ASSIGNMENT
